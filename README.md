@@ -1,3 +1,2 @@
-# Fake-News-Detection
 
-# Fake news detection using Passive Aggressive algorithms Classifer
+# Fake News Detection using Passive Aggressive algorithms Classifer
